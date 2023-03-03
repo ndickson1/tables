@@ -1,0 +1,26 @@
+body{
+    background:rgb(215, 255, 211)
+}
+
+h1{
+    font-size:30pt;
+    text-align: center;
+}
+
+.top{
+    background:rgb(0, 165, 49);
+    border-radius: 30px;
+    text-align: center;
+    height:50px;
+    padding-top:30px;
+    width:40%;
+    margin: auto;
+}
+.top a:link,a:visited,a:hover,a:active{
+    background-color:rgb(98, 255, 98);
+    padding:10px 30px;
+    text-decoration: none;
+    margin-top: 50px;
+    border-radius: 30px;
+    color:rgb(102, 0, 185)
+}
